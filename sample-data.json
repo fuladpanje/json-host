@@ -1,29 +1,838 @@
 [
-  {
-    "title": "نکات مهم در فرایند ثبت نام",
-    "url": "https://ikbs.mtnirancell.ir/knowledge/96",
-    "category": "ثبت نام و بارگذاری مدارک",
-    "tags": [
-      {
-        "title": "در انتظار اولین تماس (Waiting for first call back)",
-        "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1%20%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%AA%D9%85%D8%A7%D8%B3",
-        "keywords": ["وضعیت سیم کارت"]
-      },
-      { "title": "فعال (Active)", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Active" },
-      { "title": "غیرفعال (Inactive)", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Inactive" }
+
+        {
+            "title": "نکات مهم در فرایند ثبت نام",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/96 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "tags": [
+                {
+                    "title": "در انتظار اولین تماس (Waiting for first call back)",
+                    "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1%20%D8%A7%D9%88%D9%84%DB%8C%D9%86%20%D8%AA%D9%85%D8%A7%D8%B3 ",
+                    "keywords": ["وضعیت سیم کارت"]
+                },
+                { "title": "فعال (Active)", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Active " },
+                { "title": "غیرفعال (Inactive)", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Inactive " },
+                { "title": "MAX10", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Max10 " },
+                  { "title": "Cancel", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Cancel " },
+                { "title": "زمان تایید مدارک", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=48%20%D8%B3%D8%A7%D8%B9%D8%AA " },
+                { "title": "48 ساعت", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=48%20%D8%B3%D8%A7%D8%B9%D8%AA " },
+                { "title": "72 ساعت", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=72%20%D8%B3%D8%A7%D8%B9%D8%AA " },
+                { "title": "MAX1", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Max%203 " },
+                { "title": "Max connections Failed / This Id registered with maximum services and register new service", "url": "https://ikbs.mtnirancell.ir/knowledge/96?highlightSearch=Max%20connections%20Failed%20/%20This%20Id%20registered%20with%20maximum%20services%20and%20register%20new%20service " }
+            ]
+        },
+        {
+            "title": "ثبت نام مشترکین شرکتی حقوقی یا سازمانی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/99 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["سازمانی", "شرکتی", "سازمان"],
+            "tags": []
+        },
+        {
+            "title": "پیگیری مشکلات سیم کارت ثبت نام نشده (مشترکین حقیقی)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/981 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "tags": []
+        },
+        {
+            "title": "محدودیت تعداد سیم کارت های ثبت نام شده به نام هر فرد",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/584 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["max10 max1"],
+            "tags": []
+        },
+        {
+            "title": "مراکز ثبت نام سیم کارت مشترکان حقیقی و موارد لازم جهت ثبت نام",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/95 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["مفقود فرم ثبت نام"],
+            "tags": []
+        },
+        {
+            "title": "انواع وضعیت سیم کارت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/100 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["مشکلات و سیم کارت خطاهای"],
+            "tags": []
+        },
+        {
+            "title": "دریافت پیغام خطا در بررسی شماره در سیستم",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/101 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "شرایط مدرک ارسالی و نحوه ارسال آن",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/529 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["index" , "ایندکس"],
+            "labels": [
+        { "text": "Index", "color": "blue" }],
+            "tags": []
+        },
+        {
+            "title": "مدارک شناسایی معتبر در شرکت ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2225 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["index" , "ایندکس"],
+            "labels": [
+        { "text": "Index", "color": "blue" }],
+            "tags": []
+        },
+        {
+            "title": "نکات مهم هنگام ثبت اسناد و مدارک (ایندکس)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2297 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["index" , "ایندکس"],
+            "labels": [
+        { "text": "Index", "color": "blue" }],
+            "tags": []
+        },
+        {
+            "title": "فرم های معتبر جهت ثبت نام/تغییر مالکیت/ترابرد",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2391 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": ["index" , "ایندکس"],
+            "labels": [
+        { "text": "Index", "color": "blue" }],
+            "tags": []
+        },
+        {
+            "title": "لیست سیاه شماره مدرک شناسایی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2477 ",
+            "category": "ثبت نام و بارگذاری مدارک",
+            "keywords": [""],
+            "labels": [
+        { "text": "without the identity", "color": "green" },
+        { "text": "High", "color": "red" }],
+
+            "tags": []
+        },
+
+
+        {
+            "title": "روند تغییر اطلاعات پرونده در مرکز تماس/ارتباط",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/117",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": ["اصلاح ویرایش تغییر پرونده"],
+            "tags": [],
+            "labels": [
+                { "text": "High", "color": "red" }
+            ]
+        },
+        {
+            "title": "اصلاح یا تغییر آدرس (نشانی)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/119",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": ["ویراش کد پستی"],
+            "tags": [],
+            "labels": [
+                { "text": "High", "color": "red" }
+            ]
+        },
+        {
+            "title": "اعتراض به ثبت آدرس ایمیل/شماره تلفن همراه در پرونده مشترک دیگر",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2597",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": ["پیامک اطلاع رسانی دریافت شماره دیگر"],
+            "tags": []
+        },
+        {
+            "title": "تغییر مالکیت نزد فروشنده",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/310",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": ["تغییر مالکیت در مرکز خدمات حضوری معمولی"],
+            "tags": []
+        },
+        {
+            "title": "تغییر مالکیت از مالک به متصرف (پروژه کاربر)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/141",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "تغییر مالکیت از فروشگاه اینترنتی ایرانسل (آنلاین)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/944",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "قوانین تغییر مالکیت از فروشگاه اینترنتی ایرانسل",
+            "url": "https://shop.irancell.ir/fa/term-and-conditions",
+            "category": "اصلاح پرونده / تغییر مالکیت",
+            "keywords": [""],
+            "color": "orange",
+            "tags": []
+        },
+
+
+        {
+            "title": "نمایندگی فروش محصولات ایرانسل و انواع نمایندگان فروش",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2487",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": ["توزیع کننده کنندگان عمده"],
+            "tags": []
+        },
+        {
+            "title": "مراکز خدمات و نمایندگان/نمایندگان حقوقی ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/482",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "نمایندگی های ایرانسل",
+            "url": "https://irancell.ir/p/8755/mtn-irancell-representatives",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": [""],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "مشکلات فروشندگان",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/308",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "نحوه دریافت امتیاز توزیع کنندگی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/140",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": ["توزیع کننده کنندگان عمده"],
+            "tags": []
+        },
+        {
+            "title": "توزیع کنندگان عمده",
+            "url": "https://irancell.ir/p/1596/mass-distributors",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": ["توزیع کننده کنندگان عمده"],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "اعتراض به عملکرد فروشندگان / شکایت از مراکز خدمات ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/139",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": [""],
+            "tags": [],
+            "labels": [
+                { "text": "without the identity", "color": "green" },
+                { "text": "High", "color": "red" }
+            ]
+        },
+        {
+            "title": "تعرفه خدمات پس از فروش ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2523",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": ["تعرفه هزینه ها در مرکز خدمات"],
+            "tags": []
+        },
+        {
+            "title": "تعرفه های خدمات پس از فروش",
+            "url": "https://irancell.ir/p/295924/irancell-service-charges",
+            "category": "مراکز خدمات و نمایندگان فروش",
+            "keywords": ["تعرفه هزینه ها در مرکز خدمات"],
+            "color": "orange",
+            "tags": []
+        },
+
+
+        {
+            "title": "پیگیری سفارش ها از طریق لاجستیک (DPOS)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2590",
+            "category": "فروش",
+            "keywords": ["فروشگاه اینترنتی ایرانسل پیگیری سفارش سیم کارت مودم"],
+            "tags": []
+        },
+        {
+            "title": "قوانین و مقررات خرید محصول از فروشگاه اینترنتی ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2514",
+            "category": "فروش",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "قوانین خرید سیم کارت و مودم از فروشگاه اینترنتی ایرانسل",
+            "url": "https://shop.irancell.ir/fa/term-and-conditions",
+            "category": "فروش",
+            "keywords": [""],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "خرید سیم کارت",
+            "url": "https://shop.irancell.ir/fa/category/sims",
+            "category": "فروش",
+            "keywords": ["از فروشگاه اینترنتی ایرانسل"],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "عرضه محصولات دیجیتال سایر برندها از طریق فروشگاه اینترنتی ایرانسل (مارکت)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/826",
+            "category": "فروش",
+            "keywords": ["گوشی S25  گلکسی galaxy سامسونگ"],
+            "tags": []
+        },
+        {
+            "title": "اضافه شدن قابلیت جدید به فروشگاه اینترنتی ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2514",
+            "category": "فروش",
+            "keywords": ["فروشگاه اینترنتی ایرانسل پیگیری لاجستیک dpos سفارش سیم کارت مودم"],
+            "tags": []
+        },
+        {
+            "title": "پیشنهادات ویژه هفته",
+            "url": "https://shop.irancell.ir/fa/sim-daily-deal",
+            "category": "فروش",
+            "keywords": [""],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "«پیگیری سفارش» در فروشگاه اینترنتی ایرانسل، ایرانسل من و کد دستوری",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/640",
+            "category": "فروش",
+            "keywords": ["فروشگاه اینترنتی ایرانسل پیگیری لاجستیک dpos سفارش سیم کارت مودم اصلاح آدرس عدم تحویل بدلیل آدرس اشتباه ویرایش شهر و استان"],
+            "tags": []
+        },
+        {
+            "title": "نحوه ثبت درخواست بازپرداخت در فروشگاه اینترنتی ایرانسل قبل از تحویل محصول",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2514?highlightSearch=%D9%86%D8%AD%D9%88%D9%87%20%D8%AB%D8%A8%D8%AA%20%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%20%D8%A8%D8%A7%D8%B2%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA%20%D8%AF%D8%B1%20%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%AA%D8%AD%D9%88%DB%8C%D9%84%20%D9%85%D8%AD%D8%B5%D9%88%D9%84",
+            "category": "فروش",
+            "keywords": ["فروشگاه انصراف لغو سفارش فروشگاه اینترنتی ایرانسل اینترنتی ایرانسل پیگیری اتوماتیک لاجستیک dpos سفارش سیم کارت مودم"],
+            "tags": []
+        },
+        {
+            "title": "انصراف از خرید و درخواست استرداد وجه قبل از تحویل محصول",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2514?highlightSearch=%D8%A7%D9%86%D8%B5%D8%B1%D8%A7%D9%81%20%D8%A7%D8%B2%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF%20%D9%88%D8%AC%D9%87%20%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%AA%D8%AD%D9%88%DB%8C%D9%84%20%D9%85%D8%AD%D8%B5%D9%88%D9%84",
+            "category": "فروش",
+            "keywords": ["فروشگاه لغو سفارش فروشگاه اینترنتی ایرانسل اینترنتی ایرانسل پیگیری  لاجستیک dpos سفارش سیم کارت مودم"],
+            "tags": []
+        },
+        {
+            "title": "درخواست استرداد وجه محصول خریداری شده",
+            "url": "https://shop.irancell.ir/fa/term-and-conditions?term=refund-request",
+            "category": "فروش",
+            "keywords": ["از فروشگاه اینترنتی ایرانسل"],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "فروش محصولات ایرانسل بر بسترهای دیجیتال",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2346",
+            "category": "فروش",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "قیمت محصولات و هزینه ارسال آنها در فروشگاه اینترنتی ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2514?highlightSearch=%D9%82%DB%8C%D9%85%D8%AA%20%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA%20%D9%88%20%D9%87%D8%B2%DB%8C%D9%86%D9%87%20%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%20%D8%A2%D9%86%D9%87%D8%A7%20%D8%AF%D8%B1%20%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87%20%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84",
+            "category": "فروش",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "قوانین شرکت در مزایده (حراجی)",
+            "url": "https://shop.irancell.ir/fa/term-and-conditions",
+            "category": "مزایده",
+            "keywords": ["شماره های رند حراجی مزایده"],
+            "color": "orange",
+            "tags": []
+        },
+        {
+            "title": "حراج شماره‌های رند",
+            "url": "https://shop.irancell.ir/rond",
+            "category": "مزایده",
+            "keywords": ["شماره های رند حراجی مزایده"],
+            "color": "orange",
+            "tags": []
+        },
+
+        {
+            "title": "مراحل شرکت در مزایده اینترنتی ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/323",
+            "category": "مزایده",
+            "keywords": ["شماره های قوانین رند حراجی مزایده"],
+            "tags": []
+        },
+
+
+
+        {
+            "title": "بروز رسانی شبکه / سرویس های ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2439",
+            "category": "اطلاع رسانی ها",
+            "keywords": ["اختلال جمله استاندارد پوشش شبکه"],
+            "tags": []
+        },
+        {
+            "title": "نحوه پشت خط قرار دادن (هولد) / ارجاع تماس به سرپرست / تماس انگلیسی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/616",
+            "category": "اطلاع رسانی ها",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "سوال های عمومی مشترک های ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2331",
+            "category": "اطلاع رسانی ها",
+            "keywords": ["سوالات تصویری یکپارچه در تعامل با ایرانسل مشترک"],
+            "tags": []
+        },
+        {
+            "title": "اپراتورهای مجازی موبایل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/591",
+            "category": "اطلاع رسانی ها",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "سامانه‌های نمایش درخواستی (VOD) اشتراکی ایرانی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2276",
+            "category": "اطلاع رسانی ها",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "پیامک اطلاع‌رسانی CRA در رابطه با ثبت نام سرشماره در سامانه ارسال پیامک انبوه",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2427",
+            "category": "اطلاع رسانی ها",
+            "keywords": ["شاهکار"],
+            "tags": []
+        },
+        {
+            "title": "اطلاعیه ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2250",
+            "category": "اطلاع رسانی ها",
+            "keywords": ["اصلاح افزایش قیمت بسته های قطع اینترنت خبر علیرضا رفیعی مدیرعامل ایرانسل قطعی  تهدید به افزایشی اینترنت تعدیل"],
+            "tags": []
+        },
+
+
+        {
+            "title": "بررسی وضعیت پرداخت از طریق گزینه دروازه پرداخت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2568",
+            "category": "دروازه پرداخت",
+            "keywords": [""],
+            "labels": [
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        },
+        {
+            "title": "دستورالعمل ثبت/ بررسی گزارش بررسی/ پیگیری (لاگ)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/274",
+            "category": "گزارش بررسی / پیگیری",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "گزارش بررسی (لیست لاگ)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/274?highlightSearch=%D8%AF%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%88%20%D8%B2%DB%8C%D8%B1%20%D8%B4%D8%A7%D8%AE%D9%87%20%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C",
+            "category": "گزارش بررسی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "گزارش پیگیری (لیست لاگ)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/274?highlightSearch=%D8%AF%D8%B3%D8%AA%D9%87%20%D8%A8%D9%86%D8%AF%DB%8C%20%D9%88%20%D8%B2%DB%8C%D8%B1%20%D8%B4%D8%A7%D8%AE%D9%87%20%D9%81%D8%B1%D9%85%20%D9%87%D8%A7%DB%8C%20%D9%BE%DB%8C%DA%AF%DB%8C%D8%B1%DB%8C",
+            "category": "گزارش پیگیری",
+            "keywords": [""],
+            "tags": []
+        },        
+        {
+            "title": "ارسال پیامک به مشترک (لیست پیام کوتاه)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/212",
+            "category": "پیامک",
+            "keywords": [""],
+            "tags": []
+        },
+
+
+
+        {
+            "title": "مشترکان VIP و HVC و 900",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/235",
+            "category": "مشترکان VIP و HVC و 0900",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "سامانه گفتگوی آنلاین ایرانسل (چت)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2573",
+            "category": "مشترکان VIP و HVC و 0900",
+            "keywords": ["مشترکان VIP HVC و 0900"],
+            "tags": []
+        },
+        {
+            "title": "شبکه های اجتماعی و کانال های دیجیتال ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/857",
+            "category": "مشترکان VIP و HVC و 0900",
+            "keywords": [""],
+            "tags": []
+        },
+
+
+        {
+            "title": "سرویس ردیابی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/162",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "نحوه یافتن سریال گوشی و مودم (IMEI)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/170",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "اعلام شماره سریال مودم های ایرانسل از CLM",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/170?highlightSearch=%D8%A7%D8%B9%D9%84%D8%A7%D9%85%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%20%D8%B3%D8%B1%DB%8C%D8%A7%D9%84%20%D9%85%D9%88%D8%AF%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D8%A7%D8%B2%20CLM",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "labels": [
+        { "text": "High", "color": "red" }],
+            "tags": []
+        },                                
+        {
+            "title": "ردیابی تلفن همراه مفقودی",
+            "url": "https://irancell.ir/o/3001/cell-phone-tracking",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "color": "orange",
+            "tags": []
+        },                
+        {
+            "title": "مراحل پیگیری ردیابی گوشی توسط نمایندگان حقوقی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/192",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "ردیابی سیم کارت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/4321",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "پیگیری مزاحمت های تلفنی و یا پیامکی و لیست سیاه",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/175",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },              
+        {
+            "title": "ارائه مدارک موجود در پرونده مشترک به مراجع قضایی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/193",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },
+        {
+            "title": "اعلام فروشنده",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/194",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },                  
+        {
+            "title": "اعلام سرقت کارت بانک یا کارت شارژ",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/195",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        },                  
+        {
+            "title": "تعلیق سیم کارت(دستور مرجع قضایی)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/196",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "اعلام شماره تلفن بر اساس شماره سیم کارت و بالعکس",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/207",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "ریز انتقال شارژ فرد به فرد",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/208",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "استعلام شارژ و بسته خریداری شده",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/161?highlightSearch=%D8%A7%D8%B3%D8%AA%D8%B9%D9%84%D8%A7%D9%85%20%D8%B4%D8%A7%D8%B1%DA%98%20%20%D9%88%20%D8%A8%D8%B3%D8%AA%D9%87%20%D8%AE%D8%B1%DB%8C%D8%AF%D8%A7%D8%B1%DB%8C%20%D8%B4%D8%AF%D9%87",
+            "category": "واحد حقوقی",
+            "keywords": ["حقوقی از چه شماره ای"],
+            "tags": []
+        }, 
+        {
+            "title": "پیگیری موارد حقوقی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/160",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "جدول پروسه های حقوقی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/161",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "پیگیری نامه های قضایی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/657",
+            "category": "واحد حقوقی",
+            "keywords": [""],
+            "tags": []
+        }, 
+
+
+
+        {
+            "title": "فرآیند احراز هویت در بخش ارتباط با مشتریان",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/3420",
+            "category": "احراز هویت",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "تعیین رمز عبور در CLM",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/149",
+            "category": "احراز هویت",
+            "keywords": [""],
+            "labels": [
+        { "text": "High", "color": "red" }],
+            "tags": []
+        }, 
+        {
+            "title": "ضوابط وکالتنامه ها",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/967",
+            "category": "احراز هویت / وکالتنامه",
+            "keywords": ["تغییر مالکیت"],
+            "tags": []
+        }, 
+
+
+        {
+            "title": "دستورالعمل قطع تماس / گفتگوی آنلاین",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/825",
+            "category": "مزاحمت برای مرکز تماس",
+            "keywords": ["فحش کلمات نامناسب"],
+            "tags": []
+        },                                                                                 
+        {
+            "title": "روند پاسخگویی و پیگیری درخواست شماره های خاص (SM) (SP)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2310",
+            "category": "مزاحمت برای مرکز تماس",
+            "keywords": [""],
+            "tags": []
+        },  
+
+
+        {
+            "title": "سقف مصرف",
+            "url": "https://irancell.ir/p/292456/",
+            "category": "سیم کارت دائمی",
+            "keywords": ["سقف مصرف مجاز حد اعتبار"],
+            "color": "orange",
+            "tags": []
+        },  
+        {
+            "title": "حد اعتبار (سقف مصرف)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2472",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "labels": [
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        },                  
+        {
+            "title": "روش های کاهش / افزایش سپرده (سقف مجاز)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2541",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "tags": []
+        },  
+        {
+            "title": "مشکل در حد اعتبار موجود (آنلاین)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2472?highlightSearch=%D9%85%D8%B4%DA%A9%D9%84%20%D8%AF%D8%B1%20%D8%AD%D8%AF%20%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%20%D9%85%D9%88%D8%AC%D9%88%D8%AF%20(%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86)",
+            "category": "سیم کارت دائمی",
+            "keywords": ["اشتباه حد اعتبار سقف مجاز مصرف"],
+            "tags": []
+        }, 
+        {
+            "title": "کاهش یا لغو درخواست افزایش سپرده در CLM",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/240",
+            "category": "سیم کارت دائمی",
+            "keywords": ["حد اعتبار سقف مجاز مصرف"],
+            "labels": [
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        },  
+        {
+            "title": "افزایش حد اعتبار مشترکان خوش حساب",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/661",
+            "category": "سیم کارت دائمی",
+            "keywords": ["حد 25 درصد افزایش اعتبار سقف مجاز مصرف"],
+            "labels": [
+          { "text": "without the identity", "color": "green" },      
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        }, 
+        {
+            "title": "پیگیری اضافه شدن مبالغ پرداختی به قسمت «مبلغ کل پیش پرداخت» یا «سپرده»",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/254",
+            "category": "سیم کارت دائمی",
+            "keywords": ["حد اعتبار سقف مجاز مصرف"],
+            "tags": []
+        },  
+        {
+            "title": "پرداخت از بدهی کسر شده ولی خط به علت بدهی مسدود است",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/256",
+            "category": "سیم کارت دائمی",
+            "keywords": ["عدم پرداخت بدهی"],
+            "labels": [
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        }, 
+        {
+            "title": "پرداختی وارد حساب شده و از بدهی کسر گردیده است",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/255",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "labels": [
+        { "text": "Medium", "color": "orange" }],
+            "tags": []
+        },  
+        {
+            "title": "هدایا و مزایای سیم کارت دائمی",
+            "url": "https://irancell.ir/p/11028/%D9%87%D8%AF%D8%A7%DB%8C%D8%A7-%D9%88-%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C-%D8%B3%DB%8C%D9%85%DA%A9%D8%A7%D8%B1%D8%AA-%D8%AF%D8%A7%D8%A6%D9%85%DB%8C",
+            "category": "سیم کارت دائمی",
+            "keywords": ["هدیه های"],
+            "color": "orange",
+            "tags": []
+        }, 
+        {
+            "title": "انواع صورتحساب سیم کارت های دائمی و روش های دریافت آن",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/246",
+            "category": "سیم کارت دائمی",
+            "keywords": ["پیامک قبض"],
+            "tags": []
+        },  
+        {
+            "title": "پرداخت قبض سیم کارت دائمی از طریق شناسه قبض و پرداخت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/251",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "پیگیری مشکلات پرداخت صورتحساب از طریق کد شناسه و شناسه قبض و پرداخت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/1023",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "tags": []
+        },  
+        {
+            "title": "پرداخت از طریق بانک های ملی ، ملت ، تجارت",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/252",
+            "category": "سیم کارت دائمی",
+            "keywords": ["فیش بانکی کد شناسه پرداخت شماره حساب"],
+            "tags": []
+        }, 
+        {
+            "title": "پرداخت صورتحساب از طریق پورتال قبض و برنامه کاربردی ایرانسل من",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/629",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "tags": []
+        },  
+        {
+            "title": "سامانه جامع خرید شارژ و پرداخت ایرانسل (7071)",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/882",
+            "category": "سیم کارت دائمی",
+            "keywords": ["تلفن گویا"],
+            "tags": []
+        }, 
+        {
+            "title": "مانده معوقه و هزینه های دوره های قبل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/244",
+            "category": "سیم کارت دائمی",
+            "keywords": ["صورت حساب قبض"],
+            "tags": []
+        },  
+        {
+            "title": "کارکرد و هزینه های دوره جاری",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2572",
+            "category": "سیم کارت دائمی",
+            "keywords": ["جزئیات تماس ریز کارکرد"],
+            "tags": []
+        }, 
+        {
+            "title": "مهلت پرداخت سیم کارت های دائمی و تعلیق به علت عدم پرداخت صورتحساب",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/248",
+            "category": "سیم کارت دائمی",
+            "keywords": ["بدهی قبض"],
+            "tags": []
+        },  
+        {
+            "title": "چرخه تعلیق و سلب امتیاز خطوط دائمی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/249",
+            "category": "سیم کارت دائمی",
+            "keywords": ["سیم کارت"],
+            "tags": []
+        },  
+        {
+            "title": "اعتراض نسبت به افزایش هزینه قبض",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/247",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "labels": [
+        { "text": "High", "color": "red" }],
+            "tags": []
+        },           
+        {
+            "title": "یکسال مهمان ما باشید!",
+            "url": "https://irancell.ir/p/1801/our-treat-for-one-year",
+            "category": "سیم کارت دائمی",
+            "keywords": ["طرح"],
+            "color": "orange",
+            "tags": []
+        },           
+        {
+            "title": "یکسال مهمان ما باشید!",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/985",
+            "category": "سیم کارت دائمی",
+            "keywords": ["طرح"],
+            "tags": []
+        },           
+        {
+            "title": "پروژه تشویق برخی از مشترکین دائمی به پرداخت بدهی",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2521",
+            "category": "سیم کارت دائمی",
+            "keywords": [""],
+            "tags": []
+        }, 
+        {
+            "title": "سامانه پاسخگویی / پیگیری ویژه کارکنان ایرانسل",
+            "url": "https://ikbs.mtnirancell.ir/knowledge/2529",
+            "category": "سیم کارت دائمی",
+            "keywords": ["کارمند کارمندان شرکت"],
+            "tags": []
+        }
+                                                                                                                                
     ]
-  },
-  {
-    "title": "ثبت نام مشترکین شرکتی حقوقی یا سازمانی",
-    "url": "https://ikbs.mtnirancell.ir/knowledge/99",
-    "category": "ثبت نام و بارگذاری مدارک",
-    "keywords": ["سازمانی", "شرکتی", "سازمان"],
-    "tags": []
-  },
-  {
-    "title": "پیگیری مشکلات سیم کارت ثبت نام نشده (مشترکین حقیقی)",
-    "url": "https://ikbs.mtnirancell.ir/knowledge/981",
-    "category": "ثبت نام و بارگذاری مدارک",
-    "tags": []
-  }
-]
