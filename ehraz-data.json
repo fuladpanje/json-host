@@ -1,0 +1,25 @@
+[
+  {
+    "title": "خدمات شارژ",
+    "subItems": [
+      { "text": "شارژ مستقیم خط به خط", "tag": "high" },
+      { "text": "شارژ از طریق کارت شتاب", "tag": "medium" },
+      { "text": "شارژ با کد USSD", "tag": "without the identity" }
+    ]
+  },
+  {
+    "title": "اینترنت همراه",
+    "subItems": [
+      { "text": "خرید بسته ۱ گیگابایتی", "tag": "high" },
+      { "text": "خرید بسته ۵ گیگابایتی", "tag": "medium" },
+      { "text": "فعال‌سازی اینترنت آزاد", "tag": "without the identity" }
+    ]
+  },
+  {
+    "title": "تماس و مکالمه",
+    "subItems": [
+      { "text": "بسته ۲۰۰ دقیقه‌ای", "tag": "high" },
+      { "text": "بسته ۵۰۰ دقیقه‌ای", "tag": "medium" }
+    ]
+  }
+]
